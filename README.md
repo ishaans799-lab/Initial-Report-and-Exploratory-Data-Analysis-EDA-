@@ -1,5 +1,7 @@
 # Predicting Customer Purchase Behavior with Luma Event Data
 
+Link to notebook: https://github.com/ishaans799-lab/Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/206a52efd21df50b553f6eed838bfee0584a608e/luma_customer_purchase_eda.ipynb
+
 ## Executive Summary
 
 Modern digital businesses interact with customers across web, mobile, and email touchpoints, but it is difficult to know which customers are most likely to purchase and what engagement action should happen next. This project uses the Luma event dataset to explore whether machine learning can predict customer purchase behavior and support personalized next-best-action recommendations.
