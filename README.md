@@ -1,6 +1,3 @@
-# Initial-Report-and-Exploratory-Data-Analysis-EDA-
-For capstone project
-
 # Predicting Customer Purchase Behavior with Luma Event Data
 
 ## Executive Summary
@@ -94,9 +91,6 @@ For Module 24, the model should be tested with stricter prediction windows, such
 - Refine customer segments with additional clustering methods and business labels.
 - Test next-best-action rules using campaign response or experimental data.
 
-## Outline of Project
-
-- [Luma Customer Purchase EDA and Baseline Model](luma_customer_purchase_eda.ipynb)
 
 ## Contact and Further Information
 
